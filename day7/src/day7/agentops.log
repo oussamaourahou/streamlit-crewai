@@ -1,0 +1,32 @@
+2024-12-10 00:28:28,674 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=671e30ee-9b4f-4753-ac7d-be5ef6af370e
+2024-12-10 00:29:15,348 - INFO - Session Stats - Duration: 46.3s | Cost: $0.002376 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:29:15,348 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=671e30ee-9b4f-4753-ac7d-be5ef6af370e
+2024-12-10 00:31:15,352 - WARNING - AgentOps has already been initialized. If you are trying to start a session, call agentops.start_session() instead.
+2024-12-10 00:31:16,466 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=aafc0da0-4e1e-4bea-b809-2d9205f748af
+2024-12-10 00:32:05,663 - INFO - Session Stats - Duration: 48.2s | Cost: $0.003111 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:32:05,664 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=aafc0da0-4e1e-4bea-b809-2d9205f748af
+2024-12-10 00:34:05,670 - WARNING - AgentOps has already been initialized. If you are trying to start a session, call agentops.start_session() instead.
+2024-12-10 00:34:06,907 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=67d38953-22fb-4cd7-bea8-0588e9a25fda
+2024-12-10 00:34:49,538 - INFO - Session Stats - Duration: 40.9s | Cost: $0.003105 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:34:49,539 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=67d38953-22fb-4cd7-bea8-0588e9a25fda
+2024-12-10 00:36:49,542 - WARNING - AgentOps has already been initialized. If you are trying to start a session, call agentops.start_session() instead.
+2024-12-10 00:36:50,644 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=46b62a98-b4be-49bd-9137-d217ee32beb3
+2024-12-10 00:37:37,751 - INFO - Session Stats - Duration: 45.2s | Cost: $0.002545 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:37:37,752 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=46b62a98-b4be-49bd-9137-d217ee32beb3
+2024-12-10 00:39:37,757 - WARNING - AgentOps has already been initialized. If you are trying to start a session, call agentops.start_session() instead.
+2024-12-10 00:39:39,095 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=2c5186a4-5591-4292-ad46-5ae594cfa44b
+2024-12-10 00:40:54,944 - INFO - Session Stats - Duration: 1m 14.2s | Cost: $0.004924 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:40:54,944 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=2c5186a4-5591-4292-ad46-5ae594cfa44b
+2024-12-10 00:43:23,337 - WARNING - AgentOps has already been initialized. If you are trying to start a session, call agentops.start_session() instead.
+2024-12-10 00:43:24,479 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=1231925e-527e-4a9b-9dc9-c495e863d7b7
+2024-12-10 00:46:14,136 - INFO - Session Stats - Duration: 2m 48.8s | Cost: $0.003306 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:46:14,136 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=1231925e-527e-4a9b-9dc9-c495e863d7b7
+2024-12-10 00:52:42,981 - WARNING - AgentOps has already been initialized. If you are trying to start a session, call agentops.start_session() instead.
+2024-12-10 00:52:44,160 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=d3092030-3e0c-4734-9877-c9a66c374e16
+2024-12-10 00:53:36,503 - INFO - Session Stats - Duration: 50.4s | Cost: $0.003514 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:53:36,504 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=d3092030-3e0c-4734-9877-c9a66c374e16
+2024-12-10 00:55:36,508 - WARNING - AgentOps has already been initialized. If you are trying to start a session, call agentops.start_session() instead.
+2024-12-10 00:55:37,594 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=6dd2684f-8a71-4154-aefd-218004427768
+2024-12-10 00:55:54,584 - INFO - Session Stats - Duration: 15.3s | Cost: $0.000901 | LLMs: 3 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-10 00:55:54,584 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=6dd2684f-8a71-4154-aefd-218004427768
+2024-12-10 00:56:39,861 - INFO - SIGINT detected. Ending session...

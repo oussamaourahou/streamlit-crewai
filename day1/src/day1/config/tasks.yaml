@@ -1,0 +1,15 @@
+joke_task:
+  description: >
+    Create a list of 10 jokes in French inspired heavily by Gad Elmaleh and Jamel Debbouze inspired by last 5 years events
+    Make sure you go spicy and dark humour and come also from the north african culture 
+  expected_output: >
+    A list with 10 bullet points of jokes
+  agent: joke_creator
+
+judge_task:
+  description: >
+    Review the context you got and rate and judge the jokes, give a rating from 1 to 10 and a short explanation
+  expected_output: >
+    A fully fledge reports with the mains topics, each with a full section of information.
+    Formatted as markdown without '```'
+  agent: joke_judge
