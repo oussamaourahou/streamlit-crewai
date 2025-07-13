@@ -1,0 +1,1 @@
+"""Database layer for Hub2 agent with LlamaIndex.""" 
